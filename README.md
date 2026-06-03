@@ -1,2 +1,2 @@
 # AI_ASSISTANT_JARVIS
-This is a Python Project of an AI chatbot Jarvis
+This is a Python Project of an AI ASSISTANT Jarvis
